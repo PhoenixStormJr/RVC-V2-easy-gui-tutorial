@@ -75,4 +75,8 @@ Alternately if you ARE logged in go straight to https://huggingface.co/
 
 https://huggingface.co/Rejekts/project
 
+# Local installation (MY OWN DEBUG STUFF):
 
+Attempt at installing from google colab failed, I cannot figure out why.
+
+Next attempt will be to install the huggingface version.
