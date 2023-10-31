@@ -79,7 +79,9 @@ https://huggingface.co/Rejekts/project
 
 Attempt at installing from google colab failed, I cannot figure out why.
 
-Next attempt will be to install the huggingface version.
+Next attempt will be to install https://github.com/777gt/-EVC-
+
+If that fails, I will try to install the huggingface version.
 
 # Local installation on Windows (UNFINISHED):
 
