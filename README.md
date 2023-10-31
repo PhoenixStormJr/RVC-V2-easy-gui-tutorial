@@ -71,5 +71,8 @@ Alternately if you ARE logged in go straight to https://huggingface.co/
 9. If the pitch is off, simply change the pitch, and click "convert" again. My pitch was off.
 10. Click the 3 dots next to the audio and download it. OK that's it!
 
+# Original RVC v2 databse:
+
+https://huggingface.co/Rejekts/project
 
 
