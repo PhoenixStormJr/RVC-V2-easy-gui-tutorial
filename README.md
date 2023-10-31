@@ -80,3 +80,17 @@ https://huggingface.co/Rejekts/project
 Attempt at installing from google colab failed, I cannot figure out why.
 
 Next attempt will be to install the huggingface version.
+
+# Local installation on Windows (UNFINISHED):
+
+Will add a tutorial here as soon as I install it on Linux
+
+You can install this in the mean time:
+https://www.tryreplay.io/
+
+# Local installation on Mac (MY OWN STUFF):
+
+Mac is impossible to figure out, I found this app for Mac computers, but I do not own a Mac computer, so have fun I guess:
+https://www.tryreplay.io/
+
+Figure it out yourself, mac sucks. I don't own a mac and I can't figure out how to run it on a virtual machine. It sucks.
