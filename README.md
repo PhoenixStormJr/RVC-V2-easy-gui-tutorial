@@ -83,6 +83,14 @@ Next attempt will be to install https://github.com/777gt/-EVC-
 
 If that fails, I will try to install the huggingface version.
 
+apps that open
+python app.py
+
+Python alpha.py 
+will download and install multiple files...
+First is 3.93 GB
+2nd 3.74 GB
+
 # Local installation on Windows (UNFINISHED):
 
 Will add a tutorial here as soon as I install it on Linux
