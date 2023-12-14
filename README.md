@@ -1,4 +1,4 @@
-# RVCv2-easy-gui-tutorial
+# RVC-v2-easy-gui-tutorial
 (before the tutorial)
 Please donate to 
 Luis Santillan Rejekts, the creator of RVCv2 in either of these 2 places:
