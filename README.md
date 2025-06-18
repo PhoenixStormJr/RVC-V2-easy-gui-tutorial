@@ -12,7 +12,49 @@ https://www.paypal.com/paypalme/lesantillan
 Only $45 were donated to Luis. Once he has enough to pay for one of his normal job work days, "I can spend a whole 8 hour day coding to fix any issues and add new features to my projects!". I assume these features may be audio enhancers, background noise removal, or the ability to change an entire youtube video at once. But regardless, please donate, as he didn't get much.
 
 # Tutorial
-# Setting up the application
+# Setting up the application (Google Colab):
+This is simply an easy tutorial of RVC V2, using Google Colab. You WILL need to make an account on Google.
+
+Go to this Google Colab Notebook:
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_Inference_Only_%F0%9F%8E%AE_10_02_2024__12.ipynb
+
+# Download a model to use for RVC V2 (Google Colab)
+
+1. First, go to https://huggingface.co/models .
+2. Inside "Filter by name" enter the name of the model you'd like followed by RVC.
+3. For example, I want Mario from Super Mario. So I type "Mario RVC"
+4. A list of models came up. I clicked the first one. https://huggingface.co/Xhepyxopila/MarioRVCModels
+5. Go to Files and versions.
+6. Right click the download button next to a .zip file of the model you want. IT MUST BE A .zip FILE OR ELSE THE MODEL FLAT OUT WON'T WORK!!!
+7. Click "Copy Link Address"
+8. Go back to RVC V2 Google Colab Notebook.
+9. Paste the link under "url:"
+10. Name the model whatever you like, since I searched Mario, I'm naming mine Mario.
+11. Click the play button (sideways triangle) Note: The FIRST time it will Install RVC, but the second time it will go faster. Give it around 3-5 minutes.
+12. wait until the bottom bar says something like:
+
+"""
+
+Downloading model:
+
+https://huggingface.co/...
+
+INFO: Done
+
+Downloaded model!
+
+"""
+
+# Use a model for RVC V2 (Google Colab)
+1. TYPE the name of your model in "model_name" (It will automatically detect the index path and model path.)
+2. Select the method you want to use to create the audio "create_audio_method" (upload_file uploads a file and record_audio uses your mic to record audio... kinda obvious)
+3. Under "Optional: You can change the pitch here or leave it at 0." self explanitory.... changes... pitch... this is useful for boys trying to sound like girls, or girls trying to sound like boys.
+4. Click the triangle again to run the cell. It'll run and convert the audio! That's all!
+
+
+
+
+# Setting up the application (broken)
 This is simply an easy tutorial of RVC V2, using huggingface. You WILL need to make an account on huggingface.
 
 1. go to this website:
@@ -33,7 +75,7 @@ and click on one of the options called RVC V2.
 8. NOTE: ===== Application Startup at 2023-10-30 01:54:00 ===== does NOT mean it's finished... keep waiting...
 9. Once it is finished, you will see the application like normal.
 
-# If you closed your browser
+# If you closed your browser (broken)
 1. If you clicked the X button and closed your browser, to find the application again go back to huggingface.
 2. If you are not logged in go to [https://huggingface.co/](https://huggingface.co/login)https://huggingface.co/login
 3. enter username and password
@@ -44,7 +86,7 @@ Alternately if you ARE logged in go straight to https://huggingface.co/
 6. click profile
 7. it's the space called "RVC V2" at the top.
 
-# Download a model to use for RVC V2
+# Download a model to use for RVC V2 (broken)
 1. First, go to https://huggingface.co/models . It's reccommended NOT to close out of the application. If you do refer to "If you closed your browser" section
 2. Inside "Filter by name" enter the name of the model you'd like followed by RVC.
 3. For example, I want Mario from Super Mario. So I type "Mario RVC"
@@ -59,7 +101,7 @@ Alternately if you ARE logged in go straight to https://huggingface.co/
 12. Click "Download"
 13. wait until the bottom bar says "Success."
 
-# Use a model for RVC V2
+# Use a model for RVC V2 (broken)
 1. Go back to Inference.
 2. Click "Refresh" next to "1.Choose your Model."
 3. Click the arrow pointing down next to the blank area in "1.Choose your Model."
