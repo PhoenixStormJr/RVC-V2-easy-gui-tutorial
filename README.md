@@ -15,8 +15,10 @@ Only $45 were donated to Luis. Once he has enough to pay for one of his normal j
 # Setting up the application (Google Colab):
 This is simply an easy tutorial of RVC V2, using Google Colab. You WILL need to make an account on Google.
 
-Go to this Google Colab Notebook:
+1. Go to this Google Colab Notebook:
 https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_Inference_Only_%F0%9F%8E%AE_10_02_2024__12.ipynb
+2. Click "File" at the top left, and "Save a copy in Drive" (This solves the timeout message.)
+
 
 # Download a model to use for RVC V2 (Google Colab)
 
